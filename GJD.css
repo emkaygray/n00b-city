@@ -1,0 +1,39 @@
+body {
+  padding-top: 70px;
+  font-family: Rajdhani;
+  background-color:#F0F0F0;
+  position:fixed;
+}
+
+img {
+  position: fixed;
+width: 1200px;
+height: 700px;
+margin: -15% auto;
+left: 0;
+right: 0;
+}
+
+
+.dropdown-menu {
+  background-color: #101010;
+}
+
+.jumbotron {
+  color: #222121;
+}
+
+.navbar-inverse {
+  background: #222121;
+}
+
+.navbar-inverse .navbar-red.navbar-nav>li>a:hover {
+    color: red;
+}
+
+.navbar-inverse .navbar-green.navbar-nav>li>a:hover {
+    color: green;
+}
+.navbar-inverse .navbar-blue.navbar-nav>li>a:hover {
+    color: blue;
+}
